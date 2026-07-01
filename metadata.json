@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Budget Allocation Simulator",
+  "description": "An interactive operational tool and decision support system for marketing budget allocation featuring non-linear marginal ROAS curves, Markowitz risk analysis, scenario comparison, and Monte Carlo simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
