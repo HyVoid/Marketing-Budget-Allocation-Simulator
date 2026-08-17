@@ -8,7 +8,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → *HTML version coming soon*
+> 🌐 **Open in Browser** → [*HTML version*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
 >
 > 📥 **Download Excel** → *GitHub Release / Gumroad download link*
 >
