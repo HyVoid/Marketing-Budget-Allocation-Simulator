@@ -16,22 +16,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive executive dashboard showing recommended budget allocation, channel risk exposure, and expected revenue uplift.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Excel decision model displaying portfolio optimization results, marginal return curves, and scenario comparison analysis.*
-
----
-
 # What It Helps You Track
 
 * Expected revenue impact of reallocating marketing spend across channels.
