@@ -6,7 +6,9 @@
 
 **Optimize marketing budget allocation using portfolio theory, marginal return curves, and Monte Carlo simulation — entirely in a free browser tool or Excel workbook, with no installation or signup required.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML version*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
 >
