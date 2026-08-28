@@ -1,109 +1,106 @@
-# [Marketing Budget Allocation Simulator](README)
+# Marketing Budget Allocation Simulator & Spend Optimization Tool
 
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform: Browser + Excel](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
 ![Tool Type: Decision Support](https://img.shields.io/badge/Tool-Marketing%20Decision%20Support-orange.svg)
 
-**Optimize marketing budget allocation using portfolio theory, marginal return curves, and Monte Carlo simulation — entirely in a free browser tool or Excel workbook, with no installation or signup required.**
+**Optimize your cross-channel marketing budget allocation using portfolio theory, marginal return curves (ROAS decay), and Monte Carlo simulation. This free digital marketing spend planner and Excel template helps CMOs, marketing directors, and media buyers forecast ROI and eliminate ad spend waste.**
 
 **No signup. No installation. Free in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
+Test your scenarios using our free web app. For teams needing recurring quarterly planning and customized historical data inputs, the unlocked Excel version is available with a 7-day money-back guarantee.
+
+> 🌐 **Test Scenarios in Browser** → [*Launch Free Marketing Budget Simulator*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
 >
-> 🌐 **Open in Browser** → [*HTML version*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
->
-> 📥 **Download Excel** → [*Gumroad download link*](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true)
->
-> Available in both **browser** and **Excel** formats.
+> 📥 **Get the Reusable Template** → [*Download Excel Marketing Budget Allocation Model*](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true)
 
 ---
 
-# What It Helps You Track
+## 🎯 Overcome Marketing Spend Pain Points (What This Tool Solves)
 
-* Expected revenue impact of reallocating marketing spend across channels.
-* Budget saturation points where additional spend stops producing efficient returns.
-* Concentration risk from overdependence on individual acquisition channels.
-* Probability of achieving revenue targets under uncertain market conditions.
-* Operational capacity constraints before additional demand generation investment.
-* Comparative performance between current, optimized, and alternative budget scenarios.
+Stop relying on basic averages. This budget optimization framework maps common digital marketing pain points directly to data-driven solutions:
 
----
-
-# Why I Built This
-
-Most marketing budget decisions are still made using averages.
-
-Teams examine historical ROAS reports, identify the channels with the highest apparent returns, and allocate more budget accordingly. Unfortunately, this approach fails precisely when budget decisions become important.
-
-The problem is that marketing channels rarely behave linearly.
-
-For example:
-
-| Channel    | Historical ROAS | Current Spend | Recommended Using Average ROAS |
-| ---------- | --------------: | ------------: | -----------------------------: |
-| Google Ads |             4.0 |       $60,000 |                       Increase |
-| SEO        |             3.8 |       $20,000 |                       Maintain |
-| Referral   |             5.5 |            $0 |                         Ignore |
-
-This recommendation appears rational.
-
-However, after modeling marginal return decay, channel volatility, and concentration risk:
-
-| Channel    | Marginal ROAS | Optimized Spend |
-| ---------- | ------------: | --------------: |
-| Google Ads |           3.2 |         $45,000 |
-| SEO        |           4.1 |         $35,000 |
-| Referral   |           5.5 |         $10,000 |
-
-The optimal portfolio changes entirely.
-
-The analytical failure is not a lack of reporting. The failure is treating capital allocation as a reporting exercise rather than an investment portfolio problem.
-
-I built this tool to productize a repeatable decision framework:
-
-* historical performance establishes baseline expectations,
-* marginal return curves model diminishing efficiency,
-* portfolio analysis quantifies concentration risk,
-* Monte Carlo simulation estimates downside probability,
-* optimization identifies the highest expected return within operational constraints.
-
-This workbook is not a dashboard. It is a reusable reasoning framework for answering one question:
-
-> **Given limited capital, where should the next dollar actually go?**
+* **Pain Point: Wasted ad spend on maxed-out channels.** 
+  * **Solution:** Identifies **budget saturation points** where additional ad spend stops producing efficient marginal returns (ROAS decay tracking).
+* **Pain Point: Guessing cross-channel budget shifts.** 
+  * **Solution:** Forecasts the **expected revenue impact** of reallocating marketing spend across Paid Search, SEO, and Social Media channels.
+* **Pain Point: Sudden revenue drops due to platform algorithm changes.** 
+  * **Solution:** Quantifies **concentration risk** using the HHI index to prevent overdependence on a single customer acquisition channel.
+* **Pain Point: Unpredictable B2B or B2C sales cycles.** 
+  * **Solution:** Runs **Monte Carlo simulations** to calculate the exact probability of achieving your quarterly revenue targets under uncertain market conditions.
+* **Pain Point: Generating leads the sales team can't handle.** 
+  * **Solution:** Maps **operational capacity constraints** against demand generation investment to ensure sustainable scaling.
 
 ---
 
-# Common Marketing Budget Problems This Solves
+## ⚙️ Quick Start Workflow: How to Optimize Your Budget Today
 
-| Problem                                   | Without This Tool                                      | With This Tool                                             |
-| ----------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| Budget allocation based on average ROAS   | Budget shifts amplify diminishing returns              | Marginal return curves identify efficient spend ranges     |
-| Overdependence on one acquisition channel | Concentration risk remains invisible                   | HHI concentration monitoring generates risk warnings       |
-| Capacity constraints ignored              | Marketing generates operational bottlenecks            | Capacity ceilings become optimization constraints          |
-| Channel volatility overlooked             | High-risk channels receive excessive investment        | Portfolio volatility becomes measurable                    |
-| Scenario planning performed manually      | Alternative strategies require rebuilding spreadsheets | Multiple allocation scenarios compare automatically        |
-| Revenue forecasting assumes certainty     | Budget decisions ignore downside risk                  | Monte Carlo simulation estimates probability distributions |
+Transform your budget planning from guesswork to a predictable revenue engine in four steps:
+
+1. **Input Baseline Metrics:** Enter your historical channel performance (e.g., Google Ads, SEO, Meta Ads) including Current Ad Spend and Average ROAS into the dashboard.
+2. **Define Constraints & Capacity:** Set your total marketing budget cap and internal operational limits (e.g., maximum monthly leads or booked jobs).
+3. **Run the Simulation Engine:** Let the tool calculate your marginal return curves and generate Monte Carlo downside risk probabilities.
+4. **Export & Standardize (CTA):** Review the optimized budget mix in the browser. For recurring monthly adjustments and saving complex historical datasets, [**download the permanent Excel Allocation Template**](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true) to build a repeatable financial forecasting workflow.
 
 ---
 
-# Who This Is For
+## 💡 Why I Built This Capital Allocation Framework
 
-This tool is designed for:
+Most marketing budget decisions are still made using flawed historical averages. 
 
-* marketing directors managing multi-channel acquisition portfolios,
-* founders allocating constrained growth budgets,
-* agencies optimizing paid media portfolios,
-* finance teams evaluating marketing capital efficiency,
-* operators balancing acquisition performance against fulfillment capacity.
+Growth teams examine historical ROAS reports, identify the digital marketing channels with the highest apparent returns, and blindly allocate more budget accordingly. Unfortunately, this naive approach fails precisely when scaling campaigns.
 
-This tool is **not** designed for:
+The core issue: **Digital customer acquisition channels rarely behave linearly.**
 
-* enterprise marketing automation platforms,
-* attribution platform replacement,
-* campaign execution management,
-* real-time advertising operations.
+For example, look at this flawed standard allocation approach:
 
-No spreadsheet expertise is required. Open the browser version and begin evaluating budget allocation decisions immediately.
+| Digital Marketing Channel | Historical Average ROAS (Baseline) | Current Ad Spend Allocation | Recommended Action (Flawed Average Method) |
+| ------------------------- | ---------------------------------: | --------------------------: | -----------------------------------------: |
+| Google Search Ads         |                                4.0 |                     $60,000 |                  Scale Up (Max Investment) |
+| Organic SEO               |                                3.8 |                     $20,000 |                       Maintain Current Run |
+| Partner Referral          |                                5.5 |                          $0 |                      Ignore (No past data) |
+
+This recommendation appears rational on a standard marketing dashboard. 
+
+However, after running the data through our **Marginal Return Decay Engine**, factoring in **Channel Volatility (Risk)**, and calculating **Portfolio Concentration**, the reality shifts:
+
+| Digital Marketing Channel | True Marginal ROAS (Next Dollar) | Optimized Spend Recommendation |
+| ------------------------- | -------------------------------: | -----------------------------: |
+| Google Search Ads         |                              3.2 |        $45,000 (Reduce Spend)  |
+| Organic SEO               |                              4.1 |        $35,000 (Scale Spend)   |
+| Partner Referral          |                              5.5 |        $10,000 (Test Budget)   |
+
+The optimal marketing portfolio changes entirely. 
+
+The analytical failure is not a lack of marketing attribution reporting. The failure is treating capital allocation as a reporting exercise rather than an **investment portfolio problem**.
+
+I built this software to productize a repeatable financial decision framework:
+* Historical performance establishes baseline expectations.
+* Marginal return curves model diminishing ad efficiency (ROAS decay).
+* Portfolio analysis quantifies platform concentration risk.
+* Monte Carlo simulation estimates downside revenue probability.
+* Linear optimization identifies the highest expected return within operational constraints.
+
+> **Given limited marketing capital, where should the next dollar actually go?** This tool provides the mathematical answer.
+
+---
+
+## 👥 Who This Is For (Use Cases & Scenarios)
+
+This decision-support tool is specifically designed for distinct marketing and finance roles:
+
+* **CMOs & VP of Marketing:** Need a high-level *marketing budget forecasting template* to defend quarterly budget requests to the board using probability mathematics rather than gut feelings.
+* **Performance Marketing Directors:** Seeking *paid media allocation software* to balance customer acquisition cost (CAC) across Google, Meta, and TikTok ad portfolios.
+* **B2B Growth Marketers & Demand Gen Leads:** Looking for an *ROI forecasting calculator* to balance lead generation velocity against sales team operational capacity.
+* **Fractional CMOs & Marketing Agencies:** Need a repeatable *cross-channel budget auditing framework* to quickly show new clients where their current budget is bleeding efficiency.
+* **FP&A / Finance Teams:** Evaluating *marketing capital efficiency* to ensure demand generation investments align with corporate risk profiles.
+
+**Who it is NOT for:**
+* Enterprise marketing automation replacements (e.g., HubSpot, Marketo).
+* Multi-touch attribution tracking software (e.g., Northbeam, TripleWhale).
+* Real-time programmatic ad bidding execution.
+
+No advanced spreadsheet or coding expertise is required.
 
 ---
 
