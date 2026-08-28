@@ -12,7 +12,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > 🌐 **Open in Browser** → [*HTML version*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
 >
-> 📥 **Download Excel** → *GitHub Release / Gumroad download link*
+> 📥 **Download Excel** → [*Gumroad download link*](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true)
 >
 > Available in both **browser** and **Excel** formats.
 
