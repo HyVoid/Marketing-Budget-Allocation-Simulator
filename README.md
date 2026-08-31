@@ -8,7 +8,7 @@
 
 **No signup. No installation. Free in your browser.**
 
-Test your scenarios using our free web app. For teams needing recurring quarterly planning and customized historical data inputs, the unlocked Excel version is available with a 7-day money-back guarantee.
+Test your scenarios using our free web app. For teams needing recurring quarterly planning and customized historical data inputs, the unlocked Excel version is available with a 30-day, no-questions-asked money-back guarantee.
 
 > 🌐 **Test Scenarios in Browser** → [*Launch Free Marketing Budget Simulator*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
 >
