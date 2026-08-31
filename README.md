@@ -437,6 +437,40 @@ SUM()
 
 ---
 
+## The Business Logic: Methodology & Commercial Impact
+
+Many organizations treat marketing budget allocation as a backward-looking reporting exercise—simply scaling up yesterday's top-performing channels. In reality, digital customer acquisition is a **dynamic capital allocation problem**. 
+
+This toolkit shifts the conversation from *“What was our historical ROAS?”* to *“Where will our next dollar generate the highest marginal return without exposing the business to unacceptable algorithm risk?”*
+
+Here is the underlying financial methodology and how it solves specific commercial problems:
+
+### 1. The Commercial Problem: The Linear Scaling Fallacy & Capital Waste
+The most expensive mistake in digital marketing is assuming linear returns. If a $10,000 ad spend generates a 4.0 ROAS, marketing teams often incorrectly assume a $100,000 spend will yield the same efficiency. 
+*   **The flaw of static averages:** Platforms like Meta and Google exhaust their highest-intent audiences first. As you scale spend, you pay more to reach lower-intent users, causing ROAS to drop. Blindly scaling based on historical averages guarantees wasted ad spend.
+*   **The solution:** This toolkit replaces static averages with **Marginal Return Curves** to model reality.
+
+### 2. The Core Methodology (How It Works)
+
+The engine applies principles from quantitative finance and operations research to marketing data:
+
+*   **Marginal ROAS Decay (Piecewise Functions):**
+    The algorithm models the diminishing returns of every ad platform. It calculates the exact saturation point where a channel becomes inefficient, automatically recommending a budget shift to a secondary channel (like SEO or Referrals) before capital is wasted.
+*   **Modern Portfolio Theory & Concentration Risk (HHI):**
+    Treating marketing channels like an investment portfolio, the tool calculates the Herfindahl-Hirschman Index (HHI). If your revenue is 80% dependent on Meta Ads, you are one algorithm update away from a cash flow crisis. The model actively penalizes over-concentration, forcing diversification.
+*   **Stochastic Forecasting (Monte Carlo Simulation):**
+    B2B sales cycles and ad auctions are volatile. Instead of providing a single, deterministic revenue forecast that will inevitably be wrong, the engine runs thousands of simulated quarters using historical standard deviations. It outputs probability distributions (e.g., "There is an 18% statistical probability we miss our downside revenue target").
+*   **Constrained Linear Optimization (Solver Engine):**
+    It mathematically searches for the highest expected revenue while strictly obeying your business realities—such as maximum operational capacity (so you don't generate more leads than sales can close) and absolute budget caps.
+
+### 3. The Commercial Output (Business Value)
+By treating marketing as a quantifiable financial portfolio, the tool produces objective business intelligence:
+*   **For the CMO & Board:** Provides mathematically defensible budget requests. You can replace "we think this will work" with "this allocation maximizes revenue while keeping downside risk below 15%."
+*   **For Media Buyers:** Identifies exactly when to stop scaling a campaign, eliminating the guesswork of daily budget pacing.
+*   **For Finance & Operations:** Ensures alignment between demand generation spending, working capital limits, and sales team capacity.
+
+---
+
 # Other Tools in This Series
 
 * **Inventory Planning & Replenishment Simulator** — optimize purchasing decisions under uncertainty.
