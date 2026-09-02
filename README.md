@@ -479,7 +479,7 @@ By treating marketing as a quantifiable financial portfolio, the tool produces o
 * **Project Cost Allocation Dashboard** — operational profitability and labor analysis.
 * **DTC Inventory Governance Console** — inventory risk management for multi-market brands.
 
-More tools: **GitHub Profile / Gumroad Store**
+More tools: **GitHub Profile / [Our Website](https://www.theseusworkshop.com/)**
 
 ---
 
