@@ -12,7 +12,7 @@ Test your scenarios using our free web app. For teams needing recurring quarterl
 
 > 🌐 **Test Scenarios in Browser** → [*Launch Free Marketing Budget Simulator*](https://hyvoid.github.io/Marketing-Budget-Allocation-Simulator/)
 >
-> 📥 **Get the Reusable Template** → [*Download Excel Marketing Budget Allocation Model*](https://alexhasgreatestuff.gumroad.com/l/owwsv?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=marketing-budget-allocation)
+> 📥 **Get the Reusable Template** → [*Download Excel Marketing Budget Allocation Model*](https://www.theseusworkshop.com/l/owwsv?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=marketing-budget-allocation)
 
 ---
 
@@ -40,7 +40,7 @@ Transform your budget planning from guesswork to a predictable revenue engine in
 1. **Input Baseline Metrics:** Enter your historical channel performance (e.g., Google Ads, SEO, Meta Ads) including Current Ad Spend and Average ROAS into the dashboard.
 2. **Define Constraints & Capacity:** Set your total marketing budget cap and internal operational limits (e.g., maximum monthly leads or booked jobs).
 3. **Run the Simulation Engine:** Let the tool calculate your marginal return curves and generate Monte Carlo downside risk probabilities.
-4. **Export & Standardize (CTA):** Review the optimized budget mix in the browser. For recurring monthly adjustments and saving complex historical datasets, [**download the permanent Excel Allocation Template**](https://alexhasgreatestuff.gumroad.com/l/owwsv?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=marketing-budget-allocation) to build a repeatable financial forecasting workflow.
+4. **Export & Standardize (CTA):** Review the optimized budget mix in the browser. For recurring monthly adjustments and saving complex historical datasets, [**download the permanent Excel Allocation Template**](https://www.theseusworkshop.com/l/owwsv?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=marketing-budget-allocation) to build a repeatable financial forecasting workflow.
 
 ---
 
