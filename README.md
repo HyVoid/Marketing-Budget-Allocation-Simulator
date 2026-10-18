@@ -1,3 +1,4 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Marketing Budget Allocation Simulator & Spend Optimization Tool
 
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -104,7 +105,7 @@ No advanced spreadsheet or coding expertise is required.
 
 ---
 
-# About
+## About
 
 I build lightweight decision-support tools for situations where there are too many interacting variables to reliably manage mentally.
 
@@ -116,12 +117,12 @@ The Marketing Budget Allocation Simulator is one example of this approach: conve
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 <summary>For technical reviewers, Excel practitioners, and collaborators</summary>
 
-## ### Workbook Architecture
+## Workbook Architecture
 
 | Layer  | Worksheet              | Purpose                                       |
 | ------ | ---------------------- | --------------------------------------------- |
@@ -160,7 +161,7 @@ Executive Dashboard
 
 ---
 
-## ### Three Traps That Catch Even Experienced Marketing Teams
+## Three Traps That Catch Even Experienced Marketing Teams
 
 ### Trap 1 — Assuming ROAS Is Constant
 
@@ -313,7 +314,7 @@ Volatility
 
 ---
 
-## ### Example Scenario
+## Example Scenario
 
 A B2B service company allocates:
 
@@ -365,7 +366,7 @@ largest channel.
 
 ---
 
-## ### Formula Reference
+## Formula Reference
 
 <details>
 <summary>Benchmark Engine</summary>
@@ -419,7 +420,7 @@ SUM()
 
 ---
 
-## ### Validation Rules
+## Validation Rules
 
 | Field             | Rule                    | Error Behavior       |
 | ----------------- | ----------------------- | -------------------- |
@@ -471,7 +472,7 @@ By treating marketing as a quantifiable financial portfolio, the tool produces o
 
 ---
 
-# Other Tools in This Series
+## Other Tools in This Series
 
 * **Inventory Planning & Replenishment Simulator** — optimize purchasing decisions under uncertainty.
 * **Paid Media Reporting Architecture Framework** — scalable reporting systems for agencies.
@@ -483,7 +484,7 @@ More tools: **GitHub Profile / [Our Website](https://www.theseusworkshop.com/)**
 
 ---
 
-# License
+## License
 
 This project is licensed under the **Apache License 2.0**.
 
