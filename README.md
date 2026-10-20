@@ -1,5 +1,7 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Marketing Budget Allocation Simulator & Spend Optimization Tool
+<img width="1343" height="790" alt="image" src="https://github.com/user-attachments/assets/7b98054f-65f9-4459-affa-4a9e63d33697" />
+
 
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform: Browser + Excel](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
