@@ -332,17 +332,24 @@ export default function App() {
       <nav className="sticky top-0 z-50 h-[56px] bg-white border-b border-[#E8E8E6] shadow-sm">
         <div className="max-w-[1400px] h-full mx-auto px-10 flex items-center justify-between">
           
-          {/* Brand Logo Identity */}
+          {/* Brand & Product Application Identity */}
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 bg-[#051C2C] flex items-center justify-center rounded-lg">
+            <div className="w-8 h-8 bg-[#051C2C] flex items-center justify-center rounded-lg shadow-sm shrink-0">
               <div className="w-4 h-4 border-2 border-white rotate-45"></div>
             </div>
-            <span className="font-garamond text-xl font-bold brand-text uppercase tracking-wider">
-              Allocator.saas
-            </span>
-            <span className="text-[10px] font-mono text-[#888888] px-2 py-0.5 bg-[#051C2C]/5 rounded-full uppercase tracking-wide">
-              V2.0 Solver
-            </span>
+            <div className="flex flex-col justify-center">
+              <div className="flex items-center gap-2">
+                <span className="font-garamond text-[17px] font-bold text-[#051C2C] tracking-wide leading-tight">
+                  Theseus Workshop
+                </span>
+                <span className="hidden sm:inline-block text-[10px] font-mono font-medium text-[#2251FF] px-1.5 py-0.2 bg-[#2251FF]/8 rounded border border-[#2251FF]/20 leading-normal">
+                  Decision Support
+                </span>
+              </div>
+              <span className="text-[11px] font-sans font-medium text-[#777777] leading-tight truncate">
+                Marketing Budget Allocation Simulator
+              </span>
+            </div>
           </div>
 
           {/* Navigation Tabs for switching strategic views */}
@@ -523,11 +530,11 @@ export default function App() {
 
       {/* Corporate Dashboard Footer */}
       <footer className="py-6 border-t border-[#E8E8E6] bg-white text-center text-xs font-mono text-[#888888]">
-        <div className="max-w-[1400px] mx-auto px-10 flex justify-between items-center">
-          <span>&copy; 2026 Marketing Portfolio Optimization Group. All rights reserved.</span>
+        <div className="max-w-[1400px] mx-auto px-10 flex flex-wrap justify-between items-center gap-4">
+          <span>&copy; 2026 Theseus Workshop &middot; Marketing Budget Allocation Simulator. Apache-2.0 License.</span>
           <div className="flex gap-4">
-            <span className="hover:text-[#051C2C] cursor-pointer">Security Terms</span>
-            <span className="hover:text-[#051C2C] cursor-pointer">Solver API</span>
+            <span className="hover:text-[#051C2C] cursor-pointer">Decision Support Framework</span>
+            <span className="hover:text-[#051C2C] cursor-pointer">Portfolio Theory</span>
           </div>
         </div>
       </footer>
