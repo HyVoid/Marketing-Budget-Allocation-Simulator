@@ -476,11 +476,12 @@ By treating marketing as a quantifiable financial portfolio, the tool produces o
 
 ## Other Tools in This Series
 
-* **Inventory Planning & Replenishment Simulator** — optimize purchasing decisions under uncertainty.
-* **Paid Media Reporting Architecture Framework** — scalable reporting systems for agencies.
-* **VAT Compliance & Calculation Console** — multi-platform tax reconciliation workflows.
-* **Project Cost Allocation Dashboard** — operational profitability and labor analysis.
-* **DTC Inventory Governance Console** — inventory risk management for multi-market brands.
+* **[Marketing-Audit-Decision-Console](https://github.com/HyVoid/Marketing-Audit-Decision-Console)** — What should we fix first in marketing performance? — Audit marketing channel performance by reconciling ad spend data with actual revenue attribution.
+* **[Paid-Media-Data-Hub](https://github.com/HyVoid/Paid-Media-Data-Hub)** — How do we turn paid media exports into usable performance data? — Transform paid media data exports into standardized decision-ready performance reports.
+* **[tiktok-marketing-roi-calculator](https://github.com/HyVoid/tiktok-marketing-roi-calculator)** — Which monthly agency actions are justified by performance evidence? — Standardize agency performance reporting and benchmark TikTok campaign results against strategic objectives.
+* **[Membership-Engagement-Analytics-Workspace](https://github.com/HyVoid/Membership-Engagement-Analytics-Workspace)** — Which members are engaged slipping or ready for intervention? — Identify member churn risk and engagement trends across lifetime participation history.
+* **[crm-shopify-marketing-attribution-excel](https://github.com/HyVoid/crm-shopify-marketing-attribution-excel)** — Which marketing spend actually produced profitable revenue? — Connect marketing acquisition channels to CRM sales progression and Shopify revenue through unified customer identity attribution.
+* **[igaming-affiliate-ftd-analyzer-excel](https://github.com/HyVoid/igaming-affiliate-ftd-analyzer-excel)** — Which affiliate and media-buying traffic sources deserve more budget, holding, cutting, or review based on early depositor cohort performance? — Evaluate early player cohorts against cost-per-first-time-depositor thresholds to drive scale, keep, stop, or review budget decisions.
 
 More tools: **GitHub Profile / [Our Website](https://www.theseusworkshop.com/)**
 
