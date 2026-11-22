@@ -19,6 +19,17 @@ Test your scenarios using our free web app. For teams needing recurring quarterl
 
 ---
 
+## Questions, Feedback & Product Updates
+
+This simulator is designed around practical channel-budget allocation, marginal return analysis, concentration risk, and scenario planning. Feedback from marketers and business owners helps identify which assumptions, constraints, and outputs need to better reflect real planning decisions.
+
+- **Questions & workflow fit:** [Ask about channel inputs, marginal ROAS, budget saturation, concentration risk, Monte Carlo scenarios, or capacity constraints](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional channels, planning constraints, allocation scenarios, or decision reports](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the marketing budget simulator issue form](https://github.com/HyVoid/Marketing-Budget-Allocation-Simulator/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When describing a problem, mention the affected channel, assumption, budget constraint, scenario, and expected versus actual result. Use anonymized or synthetic figures. Do not upload ad-account credentials, customer-level exports, confidential campaign reports, platform tokens, or other sensitive commercial data.
+
 ## 🎯 Overcome Marketing Spend Pain Points (What This Tool Solves)
 
 Stop relying on basic averages. This budget optimization framework maps common digital marketing pain points directly to data-driven solutions:
